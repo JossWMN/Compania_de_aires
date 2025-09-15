@@ -1,6 +1,6 @@
 package Paquete;
 
-public class CatalogoItem {
+public abstract class CatalogoItem {
     private String codigo;
     private String nombre;
     private String descripcion;
